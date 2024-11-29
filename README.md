@@ -6,7 +6,7 @@ Welcome to my personal projects repository! This repo contains a collection of m
 
 Here is a list of some of my personal projects featured in this repository:
 
-1. **[AllerHins])**  
+1. **[AllerHins]**  
    A Python application designed to detect potential allergens in products by analyzing ingredients.  
 
 2. **[LeetCode Solutions]**  
